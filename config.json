@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersecrypt",
+        "uuid": 6120981,
+        "checksum": "dj49wg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
